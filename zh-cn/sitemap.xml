@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://reydelcampnou.github.io/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://reydelcampnou.github.io/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -28,10 +28,19 @@
                 href="https://reydelcampnou.github.io/categories/"
                 />
   </url><url>
-    <loc>https://reydelcampnou.github.io/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://reydelcampnou.github.io/post/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reydelcampnou.github.io/categories/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reydelcampnou.github.io/p/russian-notes-1/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reydelcampnou.github.io/categories/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2024-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reydelcampnou.github.io/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reydelcampnou.github.io/categories/test/</loc>
