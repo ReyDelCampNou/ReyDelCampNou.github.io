@@ -27,32 +27,66 @@
 &lt;li&gt;к, ч不能和э, ы, ю, я拼&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;生词&#34;&gt;生词
-&lt;/h2&gt;&lt;p&gt;Папа爸爸          Мама妈妈         ум智慧          томат番茄
-поэт诗人          суп汤            сон梦           мост桥
-сто一百           соус调味料       ананас菠萝       сын儿子
-кот猫（阳性）     кошка猫（阴性）   касса收银台      капуста卷芯菜
-комната房间       уксус醋          космос宇宙       нос鼻子
-сок果汁           окно窗           утка鸭子         час 小时（часы复数/钟表）
-так这样           как怎样          кто谁            что什么
-мы 我们           потом然后        потому因此       это这是
-поэтому所以       а而              он他（阳）       она她（阴）
-оно它（中）       они 他们（复）    но但是           часто经常&lt;br&gt;
-и和               пока暂时         там在那里        тут在这里
-от从              у在…旁边&lt;/p&gt;
-&lt;h2 id=&#34;名词的性&#34;&gt;名词的性
-&lt;/h2&gt;&lt;p&gt;阳он    томат поэт кот нос сок суп сон мост 以辅音字母结尾的名词是阳性名词
-阴она   Мама утка касса капуста комната    以а结尾的名词是阴性名词
-中оно   окно                                 以о  结尾的名词是中性名词&lt;/p&gt;
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;Папа爸爸&lt;/span&gt;          &lt;span class=&#34;n&#34;&gt;Мама妈妈&lt;/span&gt;         &lt;span class=&#34;n&#34;&gt;ум智慧&lt;/span&gt;          &lt;span class=&#34;n&#34;&gt;томат番茄&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;поэт诗人&lt;/span&gt;          &lt;span class=&#34;n&#34;&gt;суп汤&lt;/span&gt;            &lt;span class=&#34;n&#34;&gt;сон梦&lt;/span&gt;           &lt;span class=&#34;n&#34;&gt;мост桥&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;сто一百&lt;/span&gt;           &lt;span class=&#34;n&#34;&gt;соус调味料&lt;/span&gt;       &lt;span class=&#34;n&#34;&gt;ананас菠萝&lt;/span&gt;       &lt;span class=&#34;n&#34;&gt;сын儿子&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;кот猫&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;阳性&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;）&lt;/span&gt;     &lt;span class=&#34;n&#34;&gt;кошка猫&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;阴性&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;）&lt;/span&gt;   &lt;span class=&#34;n&#34;&gt;касса收银台&lt;/span&gt;      &lt;span class=&#34;n&#34;&gt;капуста卷芯菜&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;комната房间&lt;/span&gt;       &lt;span class=&#34;n&#34;&gt;уксус醋&lt;/span&gt;          &lt;span class=&#34;n&#34;&gt;космос宇宙&lt;/span&gt;       &lt;span class=&#34;n&#34;&gt;нос鼻子&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;сок果汁&lt;/span&gt;           &lt;span class=&#34;n&#34;&gt;окно窗&lt;/span&gt;           &lt;span class=&#34;n&#34;&gt;утка鸭子&lt;/span&gt;         &lt;span class=&#34;n&#34;&gt;час&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;小时&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;часы复数&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;钟表&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;）&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;так这样&lt;/span&gt;           &lt;span class=&#34;n&#34;&gt;как怎样&lt;/span&gt;          &lt;span class=&#34;n&#34;&gt;кто谁&lt;/span&gt;            &lt;span class=&#34;n&#34;&gt;что什么&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;мы&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;我们&lt;/span&gt;           &lt;span class=&#34;n&#34;&gt;потом然后&lt;/span&gt;        &lt;span class=&#34;n&#34;&gt;потому因此&lt;/span&gt;       &lt;span class=&#34;n&#34;&gt;это这是&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;поэтому所以&lt;/span&gt;       &lt;span class=&#34;n&#34;&gt;а而&lt;/span&gt;              &lt;span class=&#34;n&#34;&gt;он他&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;阳&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;）&lt;/span&gt;       &lt;span class=&#34;n&#34;&gt;она她&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;阴&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;）&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;оно它&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;中&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;）&lt;/span&gt;       &lt;span class=&#34;n&#34;&gt;они&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;他们&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;（&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;复&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;）&lt;/span&gt;    &lt;span class=&#34;n&#34;&gt;но但是&lt;/span&gt;           &lt;span class=&#34;n&#34;&gt;часто经常&lt;/span&gt;  
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;и和&lt;/span&gt;               &lt;span class=&#34;n&#34;&gt;пока暂时&lt;/span&gt;         &lt;span class=&#34;n&#34;&gt;там在那里&lt;/span&gt;        &lt;span class=&#34;n&#34;&gt;тут在这里&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;   &lt;span class=&#34;n&#34;&gt;от从&lt;/span&gt;              &lt;span class=&#34;n&#34;&gt;у在&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;…&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;旁边&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;名词的性&#34;&gt;名词的性
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;阳&lt;/strong&gt;: он    томат поэт кот нос сок суп сон мост 以辅音字母结尾的名词是阳性名词&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;阴&lt;/strong&gt;: она   Мама утка касса капуста комната    以а结尾的名词是阴性名词&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;中&lt;/strong&gt;: оно   окно   以о结尾的名词是中性名词&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;对话&#34;&gt;对话
-&lt;/h2&gt;&lt;p&gt;— Кто это?           -这是谁？
-— Это Мама.          -这是妈妈。
-— Это Мама?          -这是妈妈？
-— Да. Это она.       -是的。这是她。&lt;/p&gt;
-&lt;p&gt;— Что это?           -这是什么？
-— Это сок.           -这是果汁。
-— А что это?         -那这是什么？
-— Это соус.          -这是调味料。&lt;/p&gt;
-</description>
+&lt;/h2&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Кто&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;это&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;?&lt;/span&gt;           &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;这是谁&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;？&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Это&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Мама&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;          &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;这是妈妈&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;。&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Это&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Мама&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;?&lt;/span&gt;          &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;这是妈妈&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;？&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Да&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Это&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;она&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;       &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;是的&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;。&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;这是她&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;。&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Что&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;это&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;?&lt;/span&gt;           &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;这是什么&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;？&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Это&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;сок&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;           &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;这是果汁&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;。&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;А&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;что&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;это&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;?&lt;/span&gt;         &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;那这是什么&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;？&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Это&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;соус&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;          &lt;span class=&#34;o&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;这是调味料&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;。&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
         </item>
         
     </channel>
